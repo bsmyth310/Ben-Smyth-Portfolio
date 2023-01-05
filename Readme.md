@@ -6,3 +6,4 @@ Provided Links to contact him
 
 https://bsmyth310.github.io/Ben-Smyth-Portfolio/
 
+<img src="Ben-Smyth-Website.png" alt="Ben's Website" title="Image of Ben's Website">
