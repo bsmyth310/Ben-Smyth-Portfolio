@@ -186,6 +186,31 @@ p {
     font-size: 36px;
 }
 
+.Applications {
+    margin-bottom: 20px;
+    padding: 50px;
+    height: 300px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    background-color: #ef700f;
+    color: #ffffff;
+    word-wrap: normal;
+
+}
+
+.Weather-App {
+    float: left;
+    height: 30vh;
+}
+
+.Quiz-App {
+    float: right;
+    height: 29vh;
+}
+
+.App-Paragraph {
+    justify-content: center;
+}
+
 .button {
     background-color: #090909; 
     border: none;
@@ -196,31 +221,31 @@ p {
     display: inline-block;
     font-size: 16px;
     border-radius: 25px;
-  }
+}
 
-  .Email {
+.Email {
     border: none;
     padding: 5px 25px;
     display: inline-block;
     font-size: 16px;
     border-radius: 25px;
-  }
+}
 
-  .linkedin {
+.linkedin {
     border: none;
     padding: 5px 25px;
     display: inline-block;
     font-size: 16px;
     border-radius: 25px;
-  }
+}
 
-  .Telephone {
+.Telephone {
     border: none;
     padding: 5px 25px;
     display: inline-block;
     font-size: 16px;
     border-radius: 25px;
-  }
+}
 
 .footer {
     padding: 30px;
